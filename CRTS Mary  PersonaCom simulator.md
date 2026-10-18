@@ -3,20 +3,7 @@ By
 Analisjohnsmith
 Published:
 Mar 4, 2026
-Trial
-NoAI
-Badge Awards
-spiritual
-digitalart
-creativecommons
-deviantart
-empathy
-freetouse
-gnostic
-empathychallenge
-Description
-Disclaimer 
-Feb 13, 2026
+
 
 Oh, btw months later it uses Book Lang a derivative of hson.:3
 ⭐ The Core
@@ -1599,10 +1586,6 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS.
 
 SOFTWARE.All rights reserved.
-
-This work is released under the Creative Commons
-
-Attribution 3.0 International License (CC BY 3.0).
 
 
 
